@@ -11,8 +11,11 @@ public class Main extends Application {
         //new Joon();
         //new Detektiiv();
         //new Joon2();
-        new PixelChaser();
-
+        //new PixelChaser();
+        //new Ring();
+        //new Tagaajamine();
+        //new Koristaja();
+        new FooridUnenaos();
     }
 
 }
